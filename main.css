@@ -24,5 +24,6 @@ img {
 }
 
 .green-text {
-    color: green
+    color: green;
+    font-size: 20px;
 }
