@@ -1,0 +1,28 @@
+/* This is an internal CSS, which we can link to the HTML file */
+
+h1 {
+    color: blue;
+}
+
+body {
+    background-color: aqua;
+}
+
+img {
+    width: 150px;
+}
+
+/* classes or ids */
+.bigger {
+    width: 400px;
+    border-radius: 16px;
+}
+
+.smaller {
+    width: 200px;
+    border-radius: 8px;
+}
+
+.green-text {
+    color: green
+}
